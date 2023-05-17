@@ -1,2 +1,2 @@
 # Projet_Language Scripting
-Cours d'Algorithmique 
+Cours de Language Scripting Projet du cours
